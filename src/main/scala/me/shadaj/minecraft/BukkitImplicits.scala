@@ -1,4 +1,4 @@
-package me.shadaj
+package me.shadaj.minecraft
 
 import org.bukkit.event.block.BlockPlaceEvent
 import org.bukkit.event.Listener

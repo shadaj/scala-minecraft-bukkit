@@ -1,4 +1,4 @@
-package me.shadaj
+package me.shadaj.minecraft
 
 import org.bukkit.plugin.java.JavaPlugin
 

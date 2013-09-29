@@ -2,12 +2,10 @@ name := "scala-minecraft-bukkit"
 
 version := "0.1"
 
-scalaVersion := "2.10.0"
+scalaVersion := "2.10.2"
 
-organization := "me.shadaj"
+organization := "me.shadaj.minecraft"
 
 resolvers += "Bukkit releases" at "http://repo.bukkit.org/content/repositories/releases"
 
-libraryDependencies += "org.bukkit" % "bukkit" % "1.4.7-R1.0"
-
-publishTo := Some(Resolver.file("file", new File("/Users/shadaj/open-source/repos/releases")))
+libraryDependencies += "org.bukkit" % "bukkit" % "1.6.2-R1.0"
